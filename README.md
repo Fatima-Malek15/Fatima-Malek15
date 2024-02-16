@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fatima-Malek15
 - 👀 I’m interested in Computer science 
-- 🌱 I’m currently learning Bachelor of science in Computing
+- 🌱 I’m currently studying Bachelor of science in Computing
 - 💞️ I’m looking to collaborate on any IT projects
 - 📫 How to reach me on my email address fathimamalek1@gmail.com
 
